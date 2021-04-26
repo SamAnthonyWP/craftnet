@@ -109,6 +109,7 @@ return [
     'tdev.team',
     'the-neighbourhood-production.com',
     'the-neighbourhood-staging.com',
+    'thesiteedge1.com',
     'tuckshop.design',
     'umstesting.com',
     'untuckstage.com',
